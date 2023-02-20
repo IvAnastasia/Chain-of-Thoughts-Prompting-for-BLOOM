@@ -1,4 +1,4 @@
-# Chain-of-Thoughts-Prompting-for-BLOOM
+# Chain of Thoughts Prompting for BLOOM
 
 **Инструкции по запуску:**
 - октрыть в коллабе, juputer notebook или аналоге тетрадь Chain_of_Thoughts_Prompting_BLOOM.ipynb
